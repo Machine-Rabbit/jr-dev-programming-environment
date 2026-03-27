@@ -6,3 +6,5 @@ function App(){
     )
 }
 export default App;
+
+const mainWindow = document.getElementById("main-container")
